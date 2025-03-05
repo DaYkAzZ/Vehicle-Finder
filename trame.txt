@@ -1,0 +1,24 @@
+3️⃣ Connexion à l’API
+✅ Lire la documentation de l’API Car API (endpoints, paramètres, format de réponse)
+✅ Créer un service (fetch.jsx) pour gérer les appels API
+✅ Tester un appel simple à l’API avec un console.log() pour vérifier les données reçues
+
+4️⃣ Création des composants principaux
+✅ SearchBar : Champ de recherche et gestion des entrées utilisateur
+✅ CarCard : Composant affichant les détails d’une voiture
+✅ CarList : Afficher une liste de voitures en fonction des résultats
+
+5️⃣ Gestion des requêtes et état
+✅ Utiliser useState pour stocker les critères de recherche et les résultats
+✅ Utiliser useEffect pour exécuter la requête API après une recherche
+✅ Gérer les erreurs et afficher un état de chargement
+
+6️⃣ Améliorations & optimisation
+✅ Ajouter des filtres avancés (marque, modèle, année…)
+✅ Optimiser les performances avec useMemo et useCallback
+✅ Ajouter un debounce pour éviter les requêtes inutiles en temps réel
+
+7️⃣ Finalisation & déploiement
+✅ Tester et corriger les bugs éventuels
+✅ Ajouter du style (CSS ou Tailwind)
+✅ Déployer sur Vercel ou Netlify
